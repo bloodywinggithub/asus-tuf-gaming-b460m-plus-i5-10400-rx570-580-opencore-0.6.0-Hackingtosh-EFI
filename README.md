@@ -5,4 +5,4 @@ asus tuf gaming b460m plus + i5 10400 + rx570(580改) 黑苹果 opencore 0.6.0
 没加无线网卡和蓝牙，无法airdrop等
 
 问题：独显正常，核显uhd630 可以驱动，ipg gfx avg永远为1.1，gfx avg可以驱动，videoproc 可以支持核显加速
-final cut可以进入，但是无法选择渲染显卡，只能选独显
+final cut可以进入，但是无法选择渲染显卡，只能选独显，单独使用核显注入后无法启动final cut
